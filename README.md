@@ -22,3 +22,6 @@ Follow these steps to **run the project** locally:
 Make sure you have **Node.js** installed, then run:
 ```sh
 npm install
+
+## **2Start Dev Server**
+npm run dev
